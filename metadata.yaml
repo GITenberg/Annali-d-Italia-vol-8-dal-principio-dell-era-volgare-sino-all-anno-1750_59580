@@ -1,5 +1,8 @@
 _repo: Annali-d-Italia-vol-8-dal-principio-dell-era-volgare-sino-all-anno-1750_59580
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59580-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Muratori, Lodovico Antonio
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '50519'
     url: http://www.gutenberg.org/2009/agents/50519
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59580#Annali-d-Italia-vol-8-dal-principio-dell-era-volgare-sino-all-anno-1750
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2019-05-23'
 gutenberg_type: Text
